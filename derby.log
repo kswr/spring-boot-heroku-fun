@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Nov 23 15:11:37 CET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0167-40e9-65ee-000005cd28c8 
+on database directory memory:/Users/kswr/ws/java/kkjava/kkjava-embeded-db/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/Users/kswr/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/Users/kswr/ws/java/kkjava/kkjava-embeded-db
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
